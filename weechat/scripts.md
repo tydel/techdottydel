@@ -2,11 +2,19 @@
 title: Scripts
 description: 
 published: true
-date: 2026-05-11T18:43:58.886Z
+date: 2026-05-11T18:45:40.704Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-11T03:01:20.106Z
 ---
+
+These days, installing scripts is super easy.  First, you will need to enable script download within WeeChat with the following command:
+
+```
+/script enable
+```
+
+Next, we'll go over the most common and useful scripts currently available as of WeeChat version 4.9.0.
 
 # `highmon.pl`
 Adds a highlight monitor buffer.
