@@ -2,7 +2,7 @@
 title: Scripts
 description: 
 published: true
-date: 2026-05-11T18:47:31.521Z
+date: 2026-05-11T18:47:40.967Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-11T03:01:20.106Z
@@ -25,7 +25,7 @@ Search regular expression in buffers or log files.
 ## [colorize_nicks.py](https://weechat.org/scripts/source/colorize_nicks.py.html/)
 Use the weechat nick colors in the chat area and command line.
 
-# [autosort.py](https://weechat.org/scripts/source/autosort.py.html/)
+## [autosort.py](https://weechat.org/scripts/source/autosort.py.html/)
 Automatically keep buffers grouped by server and sorted by name. 
 
 # `go.py`
