@@ -2,7 +2,7 @@
 title: Scripts
 description: 
 published: true
-date: 2026-05-11T03:03:08.123Z
+date: 2026-05-11T03:03:11.739Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-11T03:01:20.106Z
