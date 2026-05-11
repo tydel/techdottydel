@@ -2,22 +2,23 @@
 title: Scripts
 description: 
 published: true
-date: 2026-05-11T03:01:20.106Z
+date: 2026-05-11T03:03:08.123Z
 tags: 
 editor: markdown
 dateCreated: 2026-05-11T03:01:20.106Z
 ---
 
-# Scripts
-Here is a listing of recommended scripts and their usage.
-
-* highmon.pl
+# highmon.pl
 Adds a highlight monitor buffer.
-* grep.py
+
+# grep.py
 Search regular expression in buffers or log files.
-* colorize_nicks.py
+
+# colorize_nicks.py
 Use the weechat nick colors in the chat area and command line.
-* autosort.py
+
+# autosort.py
 Automatically keep buffers grouped by server and sorted by name. 
-* go.py
+
+# go.py
 Quick jump to buffers. 
