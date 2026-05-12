@@ -2,8 +2,8 @@
 title: Scripts
 description: 
 published: true
-date: 2026-05-11T18:48:16.161Z
-tags: 
+date: 2026-05-12T18:06:30.279Z
+tags: weechat
 editor: markdown
 dateCreated: 2026-05-11T03:01:20.106Z
 ---
