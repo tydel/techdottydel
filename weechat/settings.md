@@ -2,8 +2,8 @@
 title: Settings
 description: 
 published: true
-date: 2026-05-11T03:02:20.500Z
-tags: 
+date: 2026-05-12T18:06:09.461Z
+tags: weechat
 editor: markdown
 dateCreated: 2026-05-11T03:02:20.500Z
 ---
